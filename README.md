@@ -8,7 +8,7 @@ sudo apt update
 ```bash
 sudo apt upgrade
 ```
-configure locales
+Configuration des locales
 ```bash
 sudo locale-gen fr_FR.UTF-8
 ```
